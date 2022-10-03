@@ -35,5 +35,5 @@ plt.plot(liste_A, liste_energy, 'r+');
 plt.title('Courbe d\'Aston ');
 plt.xlabel('A')
 plt.ylabel('binding energy (KeV)')
-plt.show();
 plt.savefig("plot.png");
+plt.show();
